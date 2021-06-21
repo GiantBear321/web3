@@ -1,4 +1,4 @@
-# vue-helloworld
+# vue-web3
 
 ## Project setup
 ```
